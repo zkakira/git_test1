@@ -1,1 +1,0 @@
-add new grit.gemspec
